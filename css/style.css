@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.upload-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-details {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+#details-container {
+    text-align: center;
+}
