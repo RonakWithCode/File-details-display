@@ -33,18 +33,8 @@ To get started with File Details Display on your local machine, follow these ste
 
       ```bash
       git clone https://github.com/RonakWithCode/Photo-details-display.git
-
-2. Navigate to the project directory:
-      ```bash
-      cd file-details-display
-3. Install dependencies:
-      ```bash
-      npm install
-4. Start the application:
-      ```bash
-      npm start
-
-5. Open your web browser and visit http://localhost:3000 to access the application.
+4. Open in local host 
+3. Open your web browser and visit http://localhost:3000 to access the application.
    
 ## Usage
 
