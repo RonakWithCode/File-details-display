@@ -8,9 +8,7 @@ File Details Display is a web application that allows users to upload and view d
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributions](#contributions)
 - [Demo](#demo)
-- [License](#license)
 
 ## Key Features
 
