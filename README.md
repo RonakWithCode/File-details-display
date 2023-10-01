@@ -32,7 +32,7 @@ To get started with File Details Display on your local machine, follow these ste
 1. Clone this repository to your local machine:
 
       ```bash
-      git clone https://github.com/your-username/file-details-display.git
+      git clone https://github.com/RonakWithCode/Photo-details-display.git
 
 2. Navigate to the project directory:
       ```bash
